@@ -9,3 +9,5 @@ This project experiments with fitting linear and non-linear regression models wi
 
 ## Implementations include:
 * **`Julia-Neural-Network-with-Nonlinear-Regression-and-heteroscedastic-noise.ipynb`** the final jupyter notebook project.
+
+Note: this project is part of the assignment from Statistical Methods for Machine Learning II at the Univeristy of Toronto.
